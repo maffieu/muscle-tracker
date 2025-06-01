@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+}
+
+main {
+    padding: 20px;
+}
+
+.exercise {
+    background: white;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+input[type="number"] {
+    width: 70px;
+}
